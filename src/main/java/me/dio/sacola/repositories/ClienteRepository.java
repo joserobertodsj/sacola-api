@@ -1,4 +1,4 @@
-package me.dio.sacola.Repositories;
+package me.dio.sacola.repositories;
 
 import me.dio.sacola.models.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
